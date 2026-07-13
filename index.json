@@ -1,0 +1,1639 @@
+{
+  "library": "EthanWiner.Soundfonts",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/EthanWiner.Soundfonts",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/ethan-winer-opus-48",
+  "branch": "master",
+  "fileCount": 141,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/",
+  "files": [
+    {
+      "file": "Bassoon_mf_As1.opus",
+      "name": "Bassoon_mf_As1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_As1.opus",
+      "size": 12183,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_As2.opus",
+      "name": "Bassoon_mf_As2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_As2.opus",
+      "size": 13939,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_As3.opus",
+      "name": "Bassoon_mf_As3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_As3.opus",
+      "size": 16461,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_B0.opus",
+      "name": "Bassoon_mf_B0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_B0.opus",
+      "size": 10617,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_Cs1.opus",
+      "name": "Bassoon_mf_Cs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_Cs1.opus",
+      "size": 4113,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_Cs2.opus",
+      "name": "Bassoon_mf_Cs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_Cs2.opus",
+      "size": 7486,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_Cs3.opus",
+      "name": "Bassoon_mf_Cs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_Cs3.opus",
+      "size": 6399,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_Cs4.opus",
+      "name": "Bassoon_mf_Cs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_Cs4.opus",
+      "size": 13953,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_E1.opus",
+      "name": "Bassoon_mf_E1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_E1.opus",
+      "size": 8223,
+      "note": "E1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_E2.opus",
+      "name": "Bassoon_mf_E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_E2.opus",
+      "size": 9353,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_E3.opus",
+      "name": "Bassoon_mf_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_E3.opus",
+      "size": 13222,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_G1.opus",
+      "name": "Bassoon_mf_G1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_G1.opus",
+      "size": 9351,
+      "note": "G1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_G2.opus",
+      "name": "Bassoon_mf_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_G2.opus",
+      "size": 11716,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mf_G3.opus",
+      "name": "Bassoon_mf_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mf_G3.opus",
+      "size": 11318,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_As1.opus",
+      "name": "Bassoon_mp_As1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_As1.opus",
+      "size": 10168,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_As2.opus",
+      "name": "Bassoon_mp_As2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_As2.opus",
+      "size": 13250,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_As3.opus",
+      "name": "Bassoon_mp_As3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_As3.opus",
+      "size": 14080,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_B0.opus",
+      "name": "Bassoon_mp_B0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_B0.opus",
+      "size": 14799,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_Cs1.opus",
+      "name": "Bassoon_mp_Cs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_Cs1.opus",
+      "size": 18347,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_Cs2.opus",
+      "name": "Bassoon_mp_Cs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_Cs2.opus",
+      "size": 8741,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_Cs3.opus",
+      "name": "Bassoon_mp_Cs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_Cs3.opus",
+      "size": 13252,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_Cs4.opus",
+      "name": "Bassoon_mp_Cs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_Cs4.opus",
+      "size": 8984,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_E1.opus",
+      "name": "Bassoon_mp_E1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_E1.opus",
+      "size": 18189,
+      "note": "E1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_E2.opus",
+      "name": "Bassoon_mp_E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_E2.opus",
+      "size": 12033,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_E3.opus",
+      "name": "Bassoon_mp_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_E3.opus",
+      "size": 17217,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_G1.opus",
+      "name": "Bassoon_mp_G1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_G1.opus",
+      "size": 22282,
+      "note": "G1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_G2.opus",
+      "name": "Bassoon_mp_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_G2.opus",
+      "size": 11390,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bassoon_mp_G3.opus",
+      "name": "Bassoon_mp_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Bassoon_mp_G3.opus",
+      "size": 16120,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Brush_Hit.opus",
+      "name": "Brush_Hit.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Brush_Hit.opus",
+      "size": 3427,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Brush_Hit_Fat.opus",
+      "name": "Brush_Hit_Fat.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Brush_Hit_Fat.opus",
+      "size": 3121,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Brush_Roll.opus",
+      "name": "Brush_Roll.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Brush_Roll.opus",
+      "size": 5417,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Brush_Roll_Fat.opus",
+      "name": "Brush_Roll_Fat.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Brush_Roll_Fat.opus",
+      "size": 4910,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_As3.opus",
+      "name": "Cello_As3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_As3.opus",
+      "size": 14039,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_As4.opus",
+      "name": "Cello_As4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_As4.opus",
+      "size": 10935,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_As5.opus",
+      "name": "Cello_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_As5.opus",
+      "size": 10529,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_As6.opus",
+      "name": "Cello_As6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_As6.opus",
+      "size": 10855,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_Cs3.opus",
+      "name": "Cello_Cs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_Cs3.opus",
+      "size": 15098,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_Cs4.opus",
+      "name": "Cello_Cs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_Cs4.opus",
+      "size": 9357,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_Cs5.opus",
+      "name": "Cello_Cs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_Cs5.opus",
+      "size": 15121,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_Cs6.opus",
+      "name": "Cello_Cs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_Cs6.opus",
+      "size": 11020,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_Cs7.opus",
+      "name": "Cello_Cs7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_Cs7.opus",
+      "size": 15160,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_E3.opus",
+      "name": "Cello_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_E3.opus",
+      "size": 14124,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_E4.opus",
+      "name": "Cello_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_E4.opus",
+      "size": 7217,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_E5.opus",
+      "name": "Cello_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_E5.opus",
+      "size": 17496,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_E6.opus",
+      "name": "Cello_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_E6.opus",
+      "size": 13891,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_E7.opus",
+      "name": "Cello_E7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_E7.opus",
+      "size": 13572,
+      "note": "E7",
+      "midiNote": 100,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_G3.opus",
+      "name": "Cello_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_G3.opus",
+      "size": 9657,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_G4.opus",
+      "name": "Cello_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_G4.opus",
+      "size": 11464,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_G5.opus",
+      "name": "Cello_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_G5.opus",
+      "size": 13000,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cello_G6.opus",
+      "name": "Cello_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Cello_G6.opus",
+      "size": 12184,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clave_ff.opus",
+      "name": "Clave_ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Clave_ff.opus",
+      "size": 2902,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "Clave_mf.opus",
+      "name": "Clave_mf.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Clave_mf.opus",
+      "size": 3423,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mf",
+      "roundRobin": null
+    },
+    {
+      "file": "Clave_mp.opus",
+      "name": "Clave_mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Clave_mp.opus",
+      "size": 3618,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mp",
+      "roundRobin": null
+    },
+    {
+      "file": "Clave_pp.opus",
+      "name": "Clave_pp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Clave_pp.opus",
+      "size": 2896,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "pp",
+      "roundRobin": null
+    },
+    {
+      "file": "Down_fast.opus",
+      "name": "Down_fast.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Down_fast.opus",
+      "size": 3970,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Down_faster.opus",
+      "name": "Down_faster.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Down_faster.opus",
+      "size": 3983,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Down_slow.opus",
+      "name": "Down_slow.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Down_slow.opus",
+      "size": 6248,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_A2.opus",
+      "name": "EGlock_A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_A2.opus",
+      "size": 29499,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_B3.opus",
+      "name": "EGlock_B3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_B3.opus",
+      "size": 32584,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_B4.opus",
+      "name": "EGlock_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_B4.opus",
+      "size": 21816,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_C3.opus",
+      "name": "EGlock_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_C3.opus",
+      "size": 33661,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_D3.opus",
+      "name": "EGlock_D3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_D3.opus",
+      "size": 25348,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_D4.opus",
+      "name": "EGlock_D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_D4.opus",
+      "size": 34666,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_F3.opus",
+      "name": "EGlock_F3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_F3.opus",
+      "size": 27138,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_G2.opus",
+      "name": "EGlock_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_G2.opus",
+      "size": 30650,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_G3.opus",
+      "name": "EGlock_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_G3.opus",
+      "size": 36989,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "EGlock_G4.opus",
+      "name": "EGlock_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/EGlock_G4.opus",
+      "size": 22477,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Large_Loud.opus",
+      "name": "Large_Loud.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Large_Loud.opus",
+      "size": 8143,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Large_Medium.opus",
+      "name": "Large_Medium.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Large_Medium.opus",
+      "size": 8011,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Large_Soft.opus",
+      "name": "Large_Soft.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Large_Soft.opus",
+      "size": 9627,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Large_Swish.opus",
+      "name": "Large_Swish.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Large_Swish.opus",
+      "size": 14219,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "SBO_Hit_f.opus",
+      "name": "SBO_Hit_f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/SBO_Hit_f.opus",
+      "size": 15366,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "SBO_Hit_mp.opus",
+      "name": "SBO_Hit_mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/SBO_Hit_mp.opus",
+      "size": 13323,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mp",
+      "roundRobin": null
+    },
+    {
+      "file": "SBO_Shake_fast.opus",
+      "name": "SBO_Shake_fast.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/SBO_Shake_fast.opus",
+      "size": 5732,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "SBO_Shake_slow.opus",
+      "name": "SBO_Shake_slow.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/SBO_Shake_slow.opus",
+      "size": 16113,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "SBT_Hit_f.opus",
+      "name": "SBT_Hit_f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/SBT_Hit_f.opus",
+      "size": 17187,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "SBT_Hit_mp.opus",
+      "name": "SBT_Hit_mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/SBT_Hit_mp.opus",
+      "size": 12919,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mp",
+      "roundRobin": null
+    },
+    {
+      "file": "SBT_Shake_fast.opus",
+      "name": "SBT_Shake_fast.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/SBT_Shake_fast.opus",
+      "size": 15966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "SBT_Shake_slow.opus",
+      "name": "SBT_Shake_slow.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/SBT_Shake_slow.opus",
+      "size": 28250,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum1_Loud.opus",
+      "name": "Slt_Drum1_Loud.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum1_Loud.opus",
+      "size": 4669,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum1_Medium.opus",
+      "name": "Slt_Drum1_Medium.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum1_Medium.opus",
+      "size": 3144,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum1_Soft.opus",
+      "name": "Slt_Drum1_Soft.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum1_Soft.opus",
+      "size": 3769,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum2_Loud.opus",
+      "name": "Slt_Drum2_Loud.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum2_Loud.opus",
+      "size": 5129,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum2_Medium.opus",
+      "name": "Slt_Drum2_Medium.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum2_Medium.opus",
+      "size": 3699,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum2_Soft.opus",
+      "name": "Slt_Drum2_Soft.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum2_Soft.opus",
+      "size": 3994,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum3_Loud.opus",
+      "name": "Slt_Drum3_Loud.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum3_Loud.opus",
+      "size": 6543,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum3_Medium.opus",
+      "name": "Slt_Drum3_Medium.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum3_Medium.opus",
+      "size": 4684,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum3_Soft.opus",
+      "name": "Slt_Drum3_Soft.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum3_Soft.opus",
+      "size": 4778,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum4_Loud.opus",
+      "name": "Slt_Drum4_Loud.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum4_Loud.opus",
+      "size": 3011,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum4_Medium.opus",
+      "name": "Slt_Drum4_Medium.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum4_Medium.opus",
+      "size": 2802,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum4_Soft.opus",
+      "name": "Slt_Drum4_Soft.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum4_Soft.opus",
+      "size": 2205,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum5_Loud.opus",
+      "name": "Slt_Drum5_Loud.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum5_Loud.opus",
+      "size": 2690,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum5_Medium.opus",
+      "name": "Slt_Drum5_Medium.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum5_Medium.opus",
+      "size": 2720,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum5_Soft.opus",
+      "name": "Slt_Drum5_Soft.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum5_Soft.opus",
+      "size": 2702,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum6_Loud.opus",
+      "name": "Slt_Drum6_Loud.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum6_Loud.opus",
+      "size": 2875,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum6_Medium.opus",
+      "name": "Slt_Drum6_Medium.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum6_Medium.opus",
+      "size": 2871,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum6_Soft.opus",
+      "name": "Slt_Drum6_Soft.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum6_Soft.opus",
+      "size": 3876,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum7_Loud.opus",
+      "name": "Slt_Drum7_Loud.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum7_Loud.opus",
+      "size": 2240,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum7_Medium.opus",
+      "name": "Slt_Drum7_Medium.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum7_Medium.opus",
+      "size": 2211,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Slt_Drum7_Soft.opus",
+      "name": "Slt_Drum7_Soft.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Slt_Drum7_Soft.opus",
+      "size": 2027,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Small_Loud.opus",
+      "name": "Small_Loud.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Small_Loud.opus",
+      "size": 4480,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Small_Medium.opus",
+      "name": "Small_Medium.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Small_Medium.opus",
+      "size": 4282,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Small_Soft.opus",
+      "name": "Small_Soft.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Small_Soft.opus",
+      "size": 4388,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Small_Swish1.opus",
+      "name": "Small_Swish1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Small_Swish1.opus",
+      "size": 11569,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Small_Swish2.opus",
+      "name": "Small_Swish2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Small_Swish2.opus",
+      "size": 21319,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Small_Swish3.opus",
+      "name": "Small_Swish3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Small_Swish3.opus",
+      "size": 9745,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "TD_f.opus",
+      "name": "TD_f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/TD_f.opus",
+      "size": 11403,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "TD_ff.opus",
+      "name": "TD_ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/TD_ff.opus",
+      "size": 11392,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "TD_p.opus",
+      "name": "TD_p.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/TD_p.opus",
+      "size": 9792,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "TD_pp.opus",
+      "name": "TD_pp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/TD_pp.opus",
+      "size": 8259,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "pp",
+      "roundRobin": null
+    },
+    {
+      "file": "Tambourine_Hit.opus",
+      "name": "Tambourine_Hit.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Tambourine_Hit.opus",
+      "size": 2737,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Tambourine_Roll.opus",
+      "name": "Tambourine_Roll.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Tambourine_Roll.opus",
+      "size": 3528,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_1_f.opus",
+      "name": "Temple_Block_1_f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_1_f.opus",
+      "size": 3874,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_1_mf.opus",
+      "name": "Temple_Block_1_mf.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_1_mf.opus",
+      "size": 3737,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mf",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_1_mp.opus",
+      "name": "Temple_Block_1_mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_1_mp.opus",
+      "size": 3760,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mp",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_1_p.opus",
+      "name": "Temple_Block_1_p.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_1_p.opus",
+      "size": 2650,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_2_f.opus",
+      "name": "Temple_Block_2_f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_2_f.opus",
+      "size": 3830,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_2_mf.opus",
+      "name": "Temple_Block_2_mf.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_2_mf.opus",
+      "size": 3905,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mf",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_2_mp.opus",
+      "name": "Temple_Block_2_mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_2_mp.opus",
+      "size": 3787,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mp",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_2_p.opus",
+      "name": "Temple_Block_2_p.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_2_p.opus",
+      "size": 2607,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_3_f.opus",
+      "name": "Temple_Block_3_f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_3_f.opus",
+      "size": 4479,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_3_mf.opus",
+      "name": "Temple_Block_3_mf.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_3_mf.opus",
+      "size": 2618,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mf",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_3_mp.opus",
+      "name": "Temple_Block_3_mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_3_mp.opus",
+      "size": 3427,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mp",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_3_p.opus",
+      "name": "Temple_Block_3_p.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_3_p.opus",
+      "size": 2346,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_4_f.opus",
+      "name": "Temple_Block_4_f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_4_f.opus",
+      "size": 3698,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_4_mf.opus",
+      "name": "Temple_Block_4_mf.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_4_mf.opus",
+      "size": 2876,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mf",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_4_mp.opus",
+      "name": "Temple_Block_4_mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_4_mp.opus",
+      "size": 2361,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mp",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_4_p.opus",
+      "name": "Temple_Block_4_p.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_4_p.opus",
+      "size": 1994,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_5_f.opus",
+      "name": "Temple_Block_5_f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_5_f.opus",
+      "size": 3639,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_5_mf.opus",
+      "name": "Temple_Block_5_mf.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_5_mf.opus",
+      "size": 2388,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mf",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_5_mp.opus",
+      "name": "Temple_Block_5_mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_5_mp.opus",
+      "size": 2154,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mp",
+      "roundRobin": null
+    },
+    {
+      "file": "Temple_Block_5_p.opus",
+      "name": "Temple_Block_5_p.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Temple_Block_5_p.opus",
+      "size": 1749,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "Triangle.opus",
+      "name": "Triangle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Triangle.opus",
+      "size": 24702,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Tube_mf.opus",
+      "name": "Tube_mf.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Tube_mf.opus",
+      "size": 80004,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mf",
+      "roundRobin": null
+    },
+    {
+      "file": "Tube_mp.opus",
+      "name": "Tube_mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Tube_mp.opus",
+      "size": 67170,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "mp",
+      "roundRobin": null
+    },
+    {
+      "file": "Up_fast.opus",
+      "name": "Up_fast.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Up_fast.opus",
+      "size": 4736,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Up_faster.opus",
+      "name": "Up_faster.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Up_faster.opus",
+      "size": 4662,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Up_slow.opus",
+      "name": "Up_slow.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Up_slow.opus",
+      "size": 6742,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Wind_Chime_1.opus",
+      "name": "Wind_Chime_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Wind_Chime_1.opus",
+      "size": 59748,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Wind_Chime_2.opus",
+      "name": "Wind_Chime_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Wind_Chime_2.opus",
+      "size": 66222,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Wind_Chime_3.opus",
+      "name": "Wind_Chime_3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ethan-winer-opus-48/master/Wind_Chime_3.opus",
+      "size": 75306,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "23": [
+      "Bassoon_mf_B0.opus",
+      "Bassoon_mp_B0.opus"
+    ],
+    "28": [
+      "Bassoon_mf_E1.opus",
+      "Bassoon_mp_E1.opus"
+    ],
+    "31": [
+      "Bassoon_mf_G1.opus",
+      "Bassoon_mp_G1.opus"
+    ],
+    "40": [
+      "Bassoon_mf_E2.opus",
+      "Bassoon_mp_E2.opus"
+    ],
+    "43": [
+      "Bassoon_mf_G2.opus",
+      "Bassoon_mp_G2.opus",
+      "EGlock_G2.opus"
+    ],
+    "45": [
+      "EGlock_A2.opus"
+    ],
+    "48": [
+      "EGlock_C3.opus"
+    ],
+    "50": [
+      "EGlock_D3.opus"
+    ],
+    "52": [
+      "Bassoon_mf_E3.opus",
+      "Bassoon_mp_E3.opus",
+      "Cello_E3.opus"
+    ],
+    "53": [
+      "EGlock_F3.opus"
+    ],
+    "55": [
+      "Bassoon_mf_G3.opus",
+      "Bassoon_mp_G3.opus",
+      "Cello_G3.opus",
+      "EGlock_G3.opus"
+    ],
+    "59": [
+      "EGlock_B3.opus"
+    ],
+    "62": [
+      "EGlock_D4.opus"
+    ],
+    "64": [
+      "Cello_E4.opus"
+    ],
+    "67": [
+      "Cello_G4.opus",
+      "EGlock_G4.opus"
+    ],
+    "71": [
+      "EGlock_B4.opus"
+    ],
+    "76": [
+      "Cello_E5.opus"
+    ],
+    "79": [
+      "Cello_G5.opus"
+    ],
+    "88": [
+      "Cello_E6.opus"
+    ],
+    "91": [
+      "Cello_G6.opus"
+    ],
+    "100": [
+      "Cello_E7.opus"
+    ]
+  }
+}
